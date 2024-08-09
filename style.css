@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+img {
+  display: block;
+  width: 237px;
+  height: 229px;
+  margin-top: 116px;
+  border-radius: 150px;
+}
+
+.container-img,
+.primeiraSecao,
+.segundoTitulo,
+.terceiroTitulo {
+  padding-left: 120px;
+}
+
+.primeiraSecao p,
+.linkCidade,
+.lista1,
+.lista2 {
+  font-size: 24px;
+}
+
+.primeiroTitulo,
+.segundoTitulo,
+.terceiroTitulo {
+  font-size: 36px;
+  color: #f587dd;
+}
+
+.segundaSecao,
+.terceiraSecao {
+  display: inline-block;
+  width: 100%;
+  height: 167px;
+  padding-top: 10px;
+  margin-top: 29px;
+  background-color: #baf3f6;
+}
+
+.terceiraSecao {
+  margin-top: 16px;
+  background-color: #baf3f6;
+}
+
+.lista1,
+.lista2 {
+  padding-left: 155px;
+  padding-top: 10px;
+}
+
+.primeiraSecao {
+  margin-top: 39px;
+}
+
+.primeiraSecao p {
+  margin-top: 18px;
+}
+
+.linkCidade {
+  display: inline-block;
+  margin-top: 19px;
+  color: black;
+}
+
+.rodapeSite {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  margin-top: 15px;
+  text-align: center;
+  background-color: #d9d9d9;
+}/*# sourceMappingURL=style.css.map */
